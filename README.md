@@ -1,3 +1,3 @@
-# public
+# Public
 
 This is public
