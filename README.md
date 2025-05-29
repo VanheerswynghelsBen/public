@@ -1,5 +1,5 @@
 # Public
 
-["HTML","CSS","JS"]
+HTML,CSS,JS
 
 This is public
